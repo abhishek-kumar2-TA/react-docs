@@ -7,10 +7,10 @@
   border-bottom: 1px solid var(--colors-primary-base);
   font-weight: bold;
 `,DescriptionContent=(0,styled_components_browser_esm.Ay)(grid.H)`
-  font-size: 12px;
+  font-size: 14px;
 `,DescriptionBlock=({description})=>react.createElement(grid.E,{showSideMargin:!1},react.createElement(grid.H,null,react.createElement(DescriptionBeforeSpacer,null,"       ")),react.createElement(DescriptionContent,null,description));DescriptionBlock.__docgenInfo={description:"",methods:[],displayName:"DescriptionBlock",props:{description:{required:!0,tsType:{name:"ReactNode"},description:""}}};const CommentContainer=styled_components_browser_esm.Ay.div`
   width: 100%;
   font-size: 12px;
   color: var(--colors-success-base);
 `,CommentBlock=({children})=>react.createElement(CommentContainer,null,children);CommentBlock.__docgenInfo={description:"",methods:[],displayName:"CommentBlock",props:{children:{required:!0,tsType:{name:"ReactNode"},description:""}}}},"../../packages/react/dist/button/index.js":(__unused_webpack_module,__webpack_exports__,__webpack_require__)=>{__webpack_require__.d(__webpack_exports__,{$:()=>Button});var react=__webpack_require__("../../node_modules/react/index.js"),_lit_react=__webpack_require__("../../node_modules/@lit/react/index.js"),dist_button=__webpack_require__("../../packages/ui/dist/button/index.js");const Button=(0,_lit_react.a)({tagName:"ta-button",elementClass:dist_button._L,react,events:{onClick:"click"}})},"../../packages/react/dist/grid/index.js":(__unused_webpack_module,__webpack_exports__,__webpack_require__)=>{__webpack_require__.d(__webpack_exports__,{H:()=>GridColumn,E:()=>GridContainer});var react=__webpack_require__("../../node_modules/react/index.js"),_lit_react=__webpack_require__("../../node_modules/@lit/react/index.js"),grid=__webpack_require__("../../packages/ui/dist/grid/index.js");const GridColumn=(0,_lit_react.a)({tagName:"ta-grid-column",elementClass:grid.d,react}),GridContainer=(0,_lit_react.a)({tagName:"ta-grid-container",elementClass:grid.O,react})}}]);
-//# sourceMappingURL=button-example-stories.29231d8d.iframe.bundle.js.map
+//# sourceMappingURL=button-example-stories.712476e8.iframe.bundle.js.map
